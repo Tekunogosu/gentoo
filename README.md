@@ -1,0 +1,2 @@
+# gentoo
+Personally Gentoo repository
